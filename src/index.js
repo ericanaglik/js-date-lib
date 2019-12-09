@@ -100,5 +100,5 @@ class EasyDate {
 };
 module.exports.EasyDate = EasyDate
 
-// var ed = new EasyDate(1996, 7, 30)
-// console.log(ed.getTime())
+// var ed = new EasyDate(2019, 11, 8, 10, 10, 10, 1)
+// console.log(ed.when())
